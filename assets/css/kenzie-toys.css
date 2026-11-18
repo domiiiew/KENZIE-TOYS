@@ -1,0 +1,10 @@
+/* Kenzie Toys - penyesuaian tema (dimuat setelah styles.css) */
+:root {
+  --bs-primary: #FFC82C;
+  --bs-primary-rgb: 255, 200, 44;
+}
+.bg-primary { background-color: #FFC82C !important; }
+.text-primary { color: #FFC82C !important; }
+.border-primary { border-color: #FFC82C !important; }
+.logo img { height: auto; max-width: 170px; }
+.banner-inner-section { background-size: cover; background-position: center; }

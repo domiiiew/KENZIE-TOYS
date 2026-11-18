@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="170" height="41">
+<g transform="translate(4 4)"><rect width="40" height="40" rx="10" fill="#FFC82C"/><rect x="4" y="30" width="32" height="6" rx="3" fill="#000" fill-opacity=".13"/>
+<text x="20" y="28" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="24" text-anchor="middle" fill="#1F2147">K</text>
+<circle cx="36" cy="4" r="6" fill="#EF476F"/></g>
+<text x="54" y="31" font-family="'Trebuchet MS','Baloo 2',Arial,sans-serif" font-weight="800" font-size="25" fill="#1F2147">Kenzie<tspan fill="#FFC82C"> Toys</tspan></text></svg>
